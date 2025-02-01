@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm currently working on creating a chrome extension that shows a quote, the time and the weather when we click on add tab<br>☘ I'm currently learning Springboot and Sass/Less
+💻 I'm currently working on creating a web application using genAI to generate stories based on the prompt.<br>☘ I'm currently learning Springboot and NextJS.
 
 
 ## 🌐 Socials:
